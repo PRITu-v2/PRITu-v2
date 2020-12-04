@@ -4,7 +4,7 @@
 
 # Discord
 > You An Join Our Some Discord Server Which Are Given Below,
-[Among Us Server](https://discord.gg/yHYXJ3MGyu)
-[Development Server](https://discord.gg/cmHm2bpfMR)
-[Fun Server](https://discord.gg/NDTF62A)
+# [Among Us Server](https://discord.gg/yHYXJ3MGyu),
+# [Development Server](https://discord.gg/cmHm2bpfMR),
+# [Fun Server](https://discord.gg/NDTF62A).
 > I'll Add Other Links Soon..
