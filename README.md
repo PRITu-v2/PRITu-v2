@@ -1,5 +1,5 @@
-## Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="29px">
-Hey I Am PRITu I Am Student And A Developer. I Am A Beginner Now Soo I don't Know Musch More Hut In Future You'll Get A Lot Of Codes And You Can Self-Host The 
+#and Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+Hey I Am PRITu I Am Student And A Developer. I Am A Beginner Now Soo I don't Know Much More But In Future You'll Get A Lot Of Codes And You Can Self-Host Them!  
 
 # Discord
 You Can Join Our Some Discord Server Which Are Given Below,
