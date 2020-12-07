@@ -26,7 +26,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 > **Now I Am Working on A Bot Named `Bolt` You Can Invite It** [Here](https://discord.com/oauth2/authorize?client_id=761574724832591885&permissions=37080128&scope=bot)
 
 [![Discord](https://img.shields.io/discord/757891730165989396.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](hhttps://discord.gg/NDTF62A)
-![](https://api.ghprofile.me/view?username=PRITu-v2&style=flat)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PRITu-v2" alt="PRITu-v2" /> </p>
 
 
 </p>
