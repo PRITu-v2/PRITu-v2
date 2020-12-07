@@ -14,7 +14,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 # Stats 📊
 > Now I Am Working on A Bot Named `Bolt` You Can Invite It [Here](https://discord.com/oauth2/authorize?client_id=761574724832591885&permissions=37080128&scope=bot)
 
-[![Discord](https://img.shields.io/discord/731053649052041247.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](hhttps://discord.gg/NDTF62A)
+[![Discord](https://img.shields.io/discord/757891730165989396.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](hhttps://discord.gg/NDTF62A)
 
 ![PRITu's github stats](https://github-readme-stats.vercel.app/api?username=PRITu-v2&show_icons=true&theme=tokyonight)
 ![PRITu](https://github-readme-stats.vercel.app/api/top-langs?username=PRITu-v2&show_icons=true&theme=tokyonight&layout=compact)
