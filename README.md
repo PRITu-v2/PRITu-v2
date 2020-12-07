@@ -1,4 +1,4 @@
-# Hello There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## **Hello There** <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 Hey I Am PRITu I Am Student And A Developer. I Am A Beginner Now Soo I don't Know Much More But In Future You'll Get A Lot Of Codes And You Can Self-Host Them!  
 
 # Discord Link 🔗
@@ -9,7 +9,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 
 ## Discord
 
-[![](https://cdn.discordapp.com/attachments/773453973197815839/785366024118992946/IMG_20201207_101351.png)](https://discord.gg/NDTF62A)
+[![](https://cdn.discordapp.com/attachments/773453973197815839/785367861283258378/IMG_20201207_102104.png)](https://discord.gg/NDTF62A)
 
 
 
