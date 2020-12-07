@@ -7,7 +7,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 > [Development Server](https://discord.gg/cmHm2bpfMR),
 > [Fun Server](https://discord.gg/NDTF62A).
 
-## Discord
+# Discord
 
 [![](https://cdn.discordapp.com/attachments/773453973197815839/785367861283258378/IMG_20201207_102104.png)](https://discord.gg/NDTF62A)
 
