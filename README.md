@@ -1,7 +1,7 @@
 </p>
 <h1 align="center">PRITu 👋</h1>
 Hey I Am PRITu I Am Student And A Developer. I Am A Beginner Now Soo I don't Know Much More But In Future You'll Get A Lot Of Codes And You Can Self-Host Them!  
-
+> Feel Free To Give 🌟 ( Star ) 
 
 <h1 align="center">Links 🔗</h1>
 
