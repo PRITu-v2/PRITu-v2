@@ -2,12 +2,12 @@
 <h1 align="center">PRITu 👋</h1>
 Hey I Am PRITu I Am Student And A Developer. I Am A Beginner Now Soo I don't Know Much More But In Future You'll Get A Lot Of Codes And You Can Self-Host Them!  
 
-</p>
 <h1 align="center">Links 🔗</h1>
 You Can Join Our Some Discord Server Which Are Given Below,
-> [Among Us Server](https://discord.gg/yHYXJ3MGyu),
-> [Development Server](https://discord.gg/cmHm2bpfMR),
-> [Fun Server](https://discord.gg/NDTF62A).
+
+# [Among Us Server](https://discord.gg/yHYXJ3MGyu),
+# [Development Server](https://discord.gg/cmHm2bpfMR),
+# [Fun Server](https://discord.gg/NDTF62A).
 
 </p>
 <h1 align="center">Discord ⚙️</h1>
