@@ -20,7 +20,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 <h1 align="center">Discord 🏮</h1>
 
 [![](https://cdn.discordapp.com/attachments/773453973197815839/785367861283258378/IMG_20201207_102104.png)](https://discord.gg/NDTF62A)
-[![Support Server](https://img.shields.io/discord/757891730165989396.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/NDTF62A) 
+[![Support Server](https://img.shields.io/discord/757891730165989396.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/NDTF62A)
 
 </p>
 <h1 align="center">Stats 🗞️</h1>
