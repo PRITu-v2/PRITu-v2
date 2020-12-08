@@ -16,13 +16,13 @@ You Can Join Our Some Discord Server Which Are Given Below,
 
 
 </p>
-<h1 align="center">Discord ⚙️</h1>
+<h1 align="center">Discord 📌</h1>
 
 [![](https://cdn.discordapp.com/attachments/773453973197815839/785367861283258378/IMG_20201207_102104.png)](https://discord.gg/NDTF62A)
 [![Discord](https://img.shields.io/discord/757891730165989396.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](hhttps://discord.gg/NDTF62A)
 
 </p>
-<h1 align="center">Stats 📰</h1>
+<h1 align="center">Stats 🗞️</h1>
 
 > **Now I Am Working on A Bot Named `Bolt` You Can Invite It** [Here](https://discord.com/oauth2/authorize?client_id=761574724832591885&permissions=37080128&scope=bot)
 
