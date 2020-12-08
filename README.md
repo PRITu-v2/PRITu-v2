@@ -17,7 +17,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 
 
 </p>
-<h1 align="center">Discord 📌</h1>
+<h1 align="center">Discord 🏮</h1>
 
 [![](https://cdn.discordapp.com/attachments/773453973197815839/785367861283258378/IMG_20201207_102104.png)](https://discord.gg/NDTF62A)
 [![Discord](https://img.shields.io/discord/757891730165989396.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](hhttps://discord.gg/NDTF62A)
@@ -32,6 +32,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 
 
 <h1 align="center">Languages 📜
+
 
 <p align="center"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>      <img src ="https://img.shields.io/badge/QuickDB-%234ea94b.svg?&style=for-the-badge&logo=quickdb&logoColor=white"/></p>
 
