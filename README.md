@@ -45,3 +45,5 @@ You Can Join Our Some Discord Server Which Are Given Below,
 
 ![PRITu's github stats](https://github-readme-stats.vercel.app/api?username=PRITu-v2&show_icons=true&theme=tokyonight)
 ![PRITu](https://github-readme-stats.vercel.app/api/top-langs?username=PRITu-v2&show_icons=true&theme=tokyonight&layout=compact)
+
+![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
