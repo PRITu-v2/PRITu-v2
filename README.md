@@ -45,7 +45,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 <iframe src="https://discord.com/widget?id=757891730165989396&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 
-![PRITu's github stats](https://github-readme-stats.vercel.app/api?username=PRITu-v2&show_icons=true&theme=tokyonight)
-![PRITu](https://github-readme-stats.vercel.app/api/top-langs?username=PRITu-v2&show_icons=true&theme=tokyonight&layout=compact)
+![PRITu's github stats](https://github-readme-stats.vercel.app/api?username=PRITu-v2&show_icons=true&theme=nightowl)
+![PRITu](https://github-readme-stats.vercel.app/api/top-langs?username=PRITu-v2&show_icons=true&theme=nightowl&layout=compact)
 
 ![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
