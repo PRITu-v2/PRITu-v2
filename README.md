@@ -15,10 +15,6 @@ You Can Join Our Some Discord Server Which Are Given Below,
 [Fun Server](https://discord.gg/NDTF62A).
 
 
-</p>
-<h1 align="center">Discord 🏮</h1>
-
-[![](https://cdn.discordapp.com/attachments/773453973197815839/785367861283258378/IMG_20201207_102104.png)](https://discord.gg/NDTF62A)
 [![Support Server](https://img.shields.io/discord/757891730165989396.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/NDTF62A)
 
 </p>
@@ -27,8 +23,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 > **Now I Am Working on A Bot Named `Skyrim ` You Can Invite It** [Here](https://discord.com/oauth2/authorize?client_id=761574724832591885&permissions=37080128&scope=bot)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=PRITu-v2" alt="PRITu-v2" /> </p>
-
+![](https://api.ghprofile.me/view?username=PRITu-v2&color=purple)
 
 <h1 align="center">Languages 📜
 
