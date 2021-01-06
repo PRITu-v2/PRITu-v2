@@ -24,7 +24,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 </p>
 <h1 align="center">Stats 🗞️</h1>
 
-> **Now I Am Working on A Bot Named `Bolt` You Can Invite It** [Here](https://discord.com/oauth2/authorize?client_id=761574724832591885&permissions=37080128&scope=bot)
+> **Now I Am Working on A Bot Named `Skyrim ` You Can Invite It** [Here](https://discord.com/oauth2/authorize?client_id=761574724832591885&permissions=37080128&scope=bot)
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PRITu-v2" alt="PRITu-v2" /> </p>
