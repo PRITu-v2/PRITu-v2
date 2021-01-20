@@ -37,6 +37,9 @@ You Can Join Our Some Discord Server Which Are Given Below,
 <a href="https://github.com/PRITu-v2"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
 </p>
 
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
 
 
 ![PRITu's github stats](https://github-readme-stats.vercel.app/api?username=PRITu-v2&show_icons=true&theme=nightowl)
