@@ -8,7 +8,7 @@ Hey I Am PRITu I Am Student And A Developer. I Am A Beginner Now Soo I don't Kno
 <h1 align="center">Links 🔗</h1>
 
 You Can Join Our Some Discord Server Which Are Given Below,
-
+![Discord](https://discord.c99.nl/widget/theme-2/741549223127941170.png)
 
 [Development Server](https://discord.gg/cmHm2bpfMR),
 
