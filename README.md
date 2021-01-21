@@ -14,7 +14,7 @@ You Can Join Our Some Discord Server Which Are Given Below,
 
 [Fun Server](https://discord.gg/NDTF62A).
 
-<a href="https://discord.gg/NDTF62A"><img src="http://invidget.switchblade.xyz/gQaptwMnyz"/></a>
+<a href="https://discord.gg/NDTF62A"><img src="https://invidget.switchblade.xyz/NDTF62A"/></a>
 
 <img titile="SRC" src="https://github-readme-stats.vercel.app/api/pin/?username=PRITu-v2&repo=Skyrim&theme=algolia&icon_color=0000ff">
 
