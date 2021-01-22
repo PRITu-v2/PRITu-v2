@@ -7,13 +7,13 @@
     <br>
     Hi, I'm PRITu (AKA Skyrim), a passionate self-taught developer from the India.
     <br>
-    <i>Administrator at <a href="https://discord.gg/2SUybzb" >Snowflake Studio ❄</a></i>
+    <i>Owner Of <a href="https://discord.gg/NDTF62A" >PRITu's Dream World ❄</a></i>
     <br>
     <hr>
     <h4> Current Status </h4>
     - 🔭 I’m currently working on <strong>NOTHING</strong><br>
     - 🌱 I’m currently learning <strong>C++</strong><br>
-    - 📫 Contact me <strong>on Discord at Scythe#5740</strong><br>
+    - 📫 Contact me <strong>on Discord at [server](https://discord.gg/NDTF62A)</strong><br>
     - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
     <hr>
     <h4> Contact Me </h4>
