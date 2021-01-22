@@ -32,8 +32,8 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=PRITu-v2&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=PRITu001&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu-v2&theme=dark" alt="porny">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu001&theme=dark" alt="porny">
     <br>
     
