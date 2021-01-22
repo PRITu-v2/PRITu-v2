@@ -1,52 +1,68 @@
-</p>
-<h1 align="center">PRITu 👋</h1>
-Hey I Am PRITu I Am Student And A Developer. I Am A Beginner Now Soo I don't Know Much More But In Future You'll Get A Lot Of Codes And You Can Self-Host Them!  
-
-
-> Feel Free To Give 🌟 [Star]
-
-<h1 align="center">Links 🔗</h1>
-
-You Can Join Our Some Discord Server Which Are Given Below,
-![Discord](https://discord.c99.nl/widget/theme-2/741549223127941170.png)
-
-[Development Server](https://discord.gg/cmHm2bpfMR),
-
-[Fun Server](https://discord.gg/NDTF62A).
-
-<a href="https://discord.gg/NDTF62A"><img src="https://invidget.switchblade.xyz/NDTF62A"/></a>
-
-<img titile="SRC" src="https://github-readme-stats.vercel.app/api/pin/?username=PRITu-v2&repo=Skyrim&theme=algolia&icon_color=0000ff">
-
-
-[![Support Server](https://img.shields.io/discord/757891730165989396.svg?label=Discord&logo=Discord&colorB=7289da&style=for-the-badge)](https://discord.gg/NDTF62A)
-
-</p>
-<h1 align="center">Stats 🗞️</h1>
-
-> **Now I Am Working on A Bot Named `Skyrim ` You Can Invite It** [Here](https://discord.com/oauth2/authorize?client_id=761574724832591885&permissions=37080128&scope=bot)
-
-
-![](https://api.ghprofile.me/view?username=PRITu-v2&color=purple)
-
-<h1 align="center">Languages 📜
-
-
-<p align="center"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>      <img src ="https://img.shields.io/badge/QuickDB-%234ea94b.svg?&style=for-the-badge&logo=quickdb&logoColor=white"/></p>
-
-</p>
-<h1 align="center">🤝 Get in touch!</h1>
-<p align="center">
-<a href="https://discord.gg/NDTF62A" target="_blank"><img alt="Discord" title="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/PRITu-v2"><img alt="GitHub" title="GitHub" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a>
-</p>
-
-<p align="center">
-  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
-</p>
-
-
-![PRITu's github stats](https://github-readme-stats.vercel.app/api?username=PRITu-v2&show_icons=true&theme=nightowl)
-
-
-![challenge_yes](https://i.alexflipnote.dev/4h93guy.png)
+<div align="center">
+    <h2> Hello there 👋, I'm PRITu </h2>
+    <a href="https://discord.gg/59FYGMS">
+    <img alt="Scythe's Discord", width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg">
+    </a>
+    </a>
+    <br>
+    Hi, I'm PRITu (AKA Skyrim), a passionate self-taught developer from the India.
+    <br>
+    <i>Administrator at <a href="https://discord.gg/2SUybzb" >Snowflake Studio ❄</a></i>
+    <br>
+    <hr>
+    <h4> Current Status </h4>
+    - 🔭 I’m currently working on <strong>NOTHING</strong><br>
+    - 🌱 I’m currently learning <strong>C++</strong><br>
+    - 📫 Contact me <strong>on Discord at Scythe#5740</strong><br>
+    - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
+    <hr>
+    <h4> Contact Me </h4>
+    <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Scythe#5740 (<strong>recommended</strong>)
+    <br>
+    📫 <i>Email</i> - scythetheedev@outlook.com
+    <br>
+    <img alt="Scythe's Twitter", width="15px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"> <i>Twitter</i> -     <a href="https://twitter.com/scythe108">Scythe108</a>
+    <hr>
+    <h4> <i> Programming Languages, Tools & GitHub Stats </i> </h4>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/typescript.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/nodejs.svg"></code>
+    <code><img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/visualstudiocode.svg"></code>
+    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
+    <br>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Scythe108&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scythe108&theme=dark" alt="porny">
+    <br>
+    <h4> <i> Current Projects </i> </h4>
+    <hr>
+    <table class="tg" style="undefined;table-layout: fixed; width: 381px">
+    <colgroup>
+    <col style="width: 110px">
+    <col style="width: 116px">
+    <col style="width: 155px">
+    </colgroup>
+    <thead>
+      <tr>
+        <th class="tg-0lax">Project Name<br></th>
+        <th class="tg-baqh">Project Links<br></th>
+        <th class="tg-0lax">Project Description<br></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="tg-0lax">More Coming Soon<br></td>
+        <td class="tg-0lax">More Coming Soon</td>
+        <td class="tg-0lax">More Coming Soon</td>
+      </tr>
+      <tr>
+        <td class="tg-0lax">Aspen</td>
+        <td class="tg-0lax">Soon</td>
+        <td class="tg-0lax">A multi-purpose discord bot!<br></td>
+      </tr>
+    </tbody>
+    </table>
+</div>
