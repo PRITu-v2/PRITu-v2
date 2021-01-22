@@ -21,7 +21,6 @@
     <br>
     📫 <i>Email</i> - pritgaming3@gmail.com
     <br>
-    <img alt="Scythe's Twitter", width="15px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/youtube_circle.png"> <i>YouTube</i> -     <a href="https://youtube.com/PRITu">Custom PRITu</a>
     <hr>
     <h4> <i> Programming Languages, Tools & GitHub Stats </i> </h4>
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
