@@ -13,7 +13,7 @@
     <h4> Current Status </h4>
     - 🔭 I’m currently working on <strong>NOTHING</strong><br>
     - 🌱 I’m currently learning <strong>C++</strong><br>
-    - 📫 Contact me <strong>on Discord at\n- https://discord.gg/NDTF62A</strong><br>
+    - 📫 Contact me <strong>on Discord at https://discord.gg/NDTF62A</strong><br>
     - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
     <hr>
     <h4> Contact Me </h4>
