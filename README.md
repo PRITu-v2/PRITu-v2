@@ -17,9 +17,9 @@
     - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
     <hr>
     <h4> Contact Me </h4>
-    <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - Scythe#5740 (<strong>recommended</strong>)
+    <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - [Server](https://discord.gg/NDTF62A) (<strong>recommended</strong>)
     <br>
-    📫 <i>Email</i> - scythetheedev@outlook.com
+    📫 <i>Email</i> - pritgaming3@gmail.com
     <br>
     <img alt="Scythe's Twitter", width="15px" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"> <i>Twitter</i> -     <a href="https://twitter.com/scythe108">Scythe108</a>
     <hr>
@@ -33,36 +33,8 @@
     <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
     <br>
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=Scythe108&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=PRITu-v2&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Scythe108&theme=dark" alt="porny">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu-v2&theme=dark" alt="porny">
     <br>
-    <h4> <i> Current Projects </i> </h4>
-    <hr>
-    <table class="tg" style="undefined;table-layout: fixed; width: 381px">
-    <colgroup>
-    <col style="width: 110px">
-    <col style="width: 116px">
-    <col style="width: 155px">
-    </colgroup>
-    <thead>
-      <tr>
-        <th class="tg-0lax">Project Name<br></th>
-        <th class="tg-baqh">Project Links<br></th>
-        <th class="tg-0lax">Project Description<br></th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td class="tg-0lax">More Coming Soon<br></td>
-        <td class="tg-0lax">More Coming Soon</td>
-        <td class="tg-0lax">More Coming Soon</td>
-      </tr>
-      <tr>
-        <td class="tg-0lax">Aspen</td>
-        <td class="tg-0lax">Soon</td>
-        <td class="tg-0lax">A multi-purpose discord bot!<br></td>
-      </tr>
-    </tbody>
-    </table>
-</div>
+    
