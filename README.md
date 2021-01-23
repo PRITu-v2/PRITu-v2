@@ -37,7 +37,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu001&theme=dark" alt="porny">
     <br>
 
-    <p align="center">
+<p align="center">
 <a href="https://discord.gg/NDTF62A">
     <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
   </a>
