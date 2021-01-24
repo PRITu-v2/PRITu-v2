@@ -1,48 +1,65 @@
-<div align="center">
-    <h2> Hello there 👋, I'm PRITu </h2>
-    <a href="https://discord.gg/59FYGMS">
-    <img alt="Scythe's Discord", width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg">
-    </a>
-    </a>
-    <br>
-    Hi, I'm PRITu (AKA Skyrim), a passionate self-taught developer from the India.
-    <br>
-    <i>Owner Of <a href="https://discord.gg/NDTF62A" >PRITu's Dream World ❄</a></i>
-    <br>
-    <hr>
-    <h4> Current Status </h4>
-    - 🔭 I’m currently working on <strong>NOTHING</strong><br>
-    - 🌱 I’m currently learning <strong>C++</strong><br>
-    - 📫 Contact me <strong>on Discord at https://discord.gg/NDTF62A</strong><br>
-    - ⚡ Fun fact is <strong>I do a lot of stupid things....</strong>
-    <hr>
-    <h4> Contact Me </h4>
-    <img alt="", width="15px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/discord.svg"> <i>Discord</i> - https://discord.gg/NDTF62A (<strong>recommended</strong>)
-    <br>
-    📫 <i>Email</i> - pritgaming3@gmail.com
-    <br>
-    <hr>
-    <h4> <i> Programming Languages, Tools & GitHub Stats </i> </h4>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/javascript.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/typescript.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/html.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/nodejs.svg"></code>
-    <code><img width="35px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/visualstudiocode.svg"></code>
-    <code><img width="25px" src="https://raw.githubusercontent.com/Anish-Shobith/Anish-Shobith/master/assets/git.svg"></code>
-    <br>
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=PRITu001&show_icons=true&hide_border=true&theme=dark&count_private=true">
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu001&theme=dark" alt="porny">
-    <br>
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+<em>I am a 4th Year undergraduate student from <a href="https://jaipur.manipal.edu/"><b>Manipal University Jaipur</b></a>. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/PC.gif" height="20px"/>, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+ <br/>
+## Ask me about :computer: 
+- **Competitive Programming**
+	- Python ❤️
+	- C++
+	- Some Java
+
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+- **Web Development**
+	- HTML, CSS and Javascript :white_check_mark:
+	- Bootstrap
+	- React with Redux :electron:
+	- MonogoDB
+  - Express
+  - NodeJS  
+- **Shell Scripting**
+
+
+<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
+<br/><br/>
+
+## 🌱 I’m currently learning ...
+- **Data Science**
+- **AI**
+<br/>
+  <br/>
+
+
 
 <p align="center">
-<a href="https://discord.gg/NDTF62A">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
-<a href="https://www.youtube.com/PRITu">
-    <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="Discord" width="80"/>
-  </a>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p>  
+
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
+  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
+  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://twitter.com/pramod2107" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://medium.com/@pramodrana2107" target="blank">
+  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
+ </a> 
+  <br/>
+  <br/>
+  Thanks for stopping by 😁<br/>
 </p>
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPRITu001%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=click+here&edge_flat=false" /></p>
+<br/>
+<p>
+Visit my profile and give a ⭐️ if you like it</p>
+
 
