@@ -61,5 +61,5 @@
 <br/>
 <p>
 Visit my profile and give a ⭐️ if you like it</p>
-
+https://img.shields.io/github/stars/PRITu001/PRITu001?style=social
 
