@@ -34,7 +34,7 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajput2107&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRITu001&&show_icons=true&theme=radical" alt="PRITu's Github Stats">
 </p>  
 
 <div align="center">
