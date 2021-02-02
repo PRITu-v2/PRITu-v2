@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 </p>  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu001&theme=tokyonight&hide=batchfile">
 
-
   <br/>
 -  Thanks for stopping by 😁<br/>
 </p>
