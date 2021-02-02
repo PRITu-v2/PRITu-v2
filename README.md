@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PRITu001&&show_icons=true&theme=radical" alt="PRITu's Github Stats">
 </p>  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu001&theme=tokyonight&hide=batchfile">
 
 
   <br/>
