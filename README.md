@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 </p>  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu001&theme=tokyonight&hide=batchfile">
 
-  <br/>
--  Thanks for stopping by 😁<br/>
-</p>
-<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPRITu001%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=click+here&edge_flat=false" /></p>
-<br/>
-<p>
-- Give a ⭐️ if you like it</p>
+- Thanks for stopping by 🍪
+- Give a ⭐️ if you like it.
+- All repos are made with :heart: by [@PRITu001](https://dsc.gg/skyrim)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=PRITu001" alt="PRITu001" /> </p>
