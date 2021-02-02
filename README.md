@@ -1,4 +1,4 @@
-### Hi there
+# Hello There 👋
 
 <!--
 **username/username** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 
   <br/>
-  Thanks for stopping by 😁<br/>
+-  Thanks for stopping by 😁<br/>
 </p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPRITu001%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=click+here&edge_flat=false" /></p>
 <br/>
 <p>
-Visit my profile and give a ⭐️ if you like it</p>
+- Give a ⭐️ if you like it</p>
 
