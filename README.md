@@ -7,15 +7,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on discord bot [Global chat bot](https://top.gg/bot/761574724832591885/invite),
-
 - 🌱 I’m currently learning `discord.js,
-
 - 👯 I’m looking to collaborate on my [Discord team](https://dsc.gg/skyrim) and [Organization](https://github.com/Skyrim-Developement),
-
 - 💬 Ask me about Java Script,
-
 - 📫 How to reach me: [discord server](https://dsc.gg/skyrim),
-
 - ⚡ Fun fact: Most of my repositories are private, lol,
 
 <p align="center">
@@ -31,10 +26,12 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PRITu001" alt="PRITu001" /> </p>
 
 
-## Youtube Channel,
+## 🆑 Youtube Channel,
 
 - [First my channel](https://youtube.com/pritu)
 
-## Most recent youtube videos,
+## 🎥 Most recent youtube videos,
 
 - [Glitch Project Hosting Free](https://youtu.be/UrHH2nrSddg)
+- [Global chat bot](https://youtu.be/ug2hKZKAgb0)
+- [Invite manager setup](https://youtu.be/K_ekUzsqW94)
