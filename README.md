@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on discord bot [Global chat bot](https://top.gg/bot/761574724832591885/invite),
-- 🌱 I’m currently learning `discord.js,
+- 🌱 I’m currently learning `discord.js`,
 - 👯 I’m looking to collaborate on my [Discord team](https://dsc.gg/skyrim) and [Organization](https://github.com/Skyrim-Developement),
 - 💬 Ask me about Java Script,
 - 📫 How to reach me: [discord server](https://dsc.gg/skyrim),
