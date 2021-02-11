@@ -28,10 +28,18 @@ Here are some ideas to get you started:
 
 ### 🆑 Youtube Channel,
 
-- [First my channel](https://youtube.com/pritu)
+- [Custom Dan](https://youtube.com/pritu)
 
 ### 🎥 Youtube videos,
 
 - [Glitch Project Hosting Free](https://youtu.be/UrHH2nrSddg)
 - [Global chat bot](https://youtu.be/ug2hKZKAgb0)
 - [Invite manager setup](https://youtu.be/K_ekUzsqW94)
+- [Make your own emojis](https://youtu.be/VLhEQIQanxM)
+- [Discord bug](https://youtu.be/c01c9tdaykE)
+- [Rythm 2 setup](https://youtu.be/hnvmw0J6UtA)
+- [Koya setup](https://youtu.be/nLr_B7ORgbI)
+- [UnbelievaBoat Setup](https://youtu.be/3ygsL2HJ8a8)
+- [Ticket Tool setup](https://youtu.be/jxrCVcKhbzg)
+- [Reaction role setup](https://youtu.be/jsY1EJT8ux4)
+- [Discord vanity URL without boost](https://youtu.be/XXd0QXJORBk)
