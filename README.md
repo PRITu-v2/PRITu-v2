@@ -43,3 +43,13 @@ Here are some ideas to get you started:
 - [Ticket Tool setup](https://youtu.be/jxrCVcKhbzg)
 - [Reaction role setup](https://youtu.be/jsY1EJT8ux4)
 - [Discord vanity URL without boost](https://youtu.be/XXd0QXJORBk)
+
+### 📝 Discord/Support Servers,
+
+<a href="https://discord.gg/cmHm2bpfMR"><img src="https://invidget.switchblade.xyz/cmHm2bpfMR"/></a>
+<br><br>
+</div>
+
+<a href="https://discord.gg/2kWssuKhyY"><img src="https://invidget.switchblade.xyz/2kWssuKhyY"/></a>
+<br><br>
+</div>
