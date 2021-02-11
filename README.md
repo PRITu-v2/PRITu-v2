@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PRITu001" alt="PRITu001" /> </p>
 
 
-## 🆑 Youtube Channel,
+### 🆑 Youtube Channel,
 
 - [First my channel](https://youtube.com/pritu)
 
-## 🎥 Most recent youtube videos,
+### 🎥 Youtube videos,
 
 - [Glitch Project Hosting Free](https://youtu.be/UrHH2nrSddg)
 - [Global chat bot](https://youtu.be/ug2hKZKAgb0)
