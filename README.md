@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PRITu001&&show_icons=true&theme=radical" alt="PRITu's Github Stats">
 </p>  
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu001&theme=tokyonight&hide=batchfile">
-https://discord.c99.nl/widget/theme-3/741549223127941170.png
+</p>  
+<img align="right" src="https://discord.c99.nl/widget/theme-3/741549223127941170.png">
 
 
 - Thanks for stopping by 🍪
@@ -47,13 +48,10 @@ https://discord.c99.nl/widget/theme-3/741549223127941170.png
 
 ### 📝 Discord/Support Servers,
 
-> Developement Server,
 
 <a href="https://discord.gg/cmHm2bpfMR"><img src="https://invidget.switchblade.xyz/cmHm2bpfMR"/></a>
 <br><br>
 </div>
-
-> Chill Server,
 
 <a href="https://discord.gg/2kWssuKhyY"><img src="https://invidget.switchblade.xyz/2kWssuKhyY"/></a>
 <br><br>
