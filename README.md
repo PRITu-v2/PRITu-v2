@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [discord server](https://dsc.gg/skyrim),
 - ⚡ Fun fact: Most of my repositories are private, lol,
 
+---
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=PRITu001&&show_icons=true&theme=radical" alt="PRITu's Github Stats">
 </p>  
@@ -20,6 +22,7 @@ Here are some ideas to get you started:
 </p>  
 <img align="right" src="https://discord.c99.nl/widget/theme-3/741549223127941170.png">
 
+---
 
 - Thanks for stopping by 🍪
 - Give a ⭐️ if you like it.
@@ -27,6 +30,7 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=PRITu001" alt="PRITu001" /> </p>
 
+---
 
 ### 🆑 Youtube Channel,
 
@@ -46,13 +50,14 @@ Here are some ideas to get you started:
 - [Reaction role setup](https://youtu.be/jsY1EJT8ux4)
 - [Discord vanity URL without boost](https://youtu.be/XXd0QXJORBk)
 
+---
 ### 📝 Discord/Support Servers,
-
+---
 
 <a href="https://discord.gg/rc8Wv5v43u"><img src="https://invidget.switchblade.xyz/rc8Wv5v43u"/></a>
 <br><br>
 </div>
-
+---
 <a href="https://discord.gg/2kWssuKhyY"><img src="https://invidget.switchblade.xyz/2kWssuKhyY"/></a>
 <br><br>
 </div>
