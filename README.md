@@ -57,7 +57,9 @@ Here are some ideas to get you started:
 <a href="https://discord.gg/rc8Wv5v43u"><img src="https://invidget.switchblade.xyz/rc8Wv5v43u"/></a>
 <br><br>
 </div>
+
 ---
+
 <a href="https://discord.gg/2kWssuKhyY"><img src="https://invidget.switchblade.xyz/2kWssuKhyY"/></a>
 <br><br>
 </div>
