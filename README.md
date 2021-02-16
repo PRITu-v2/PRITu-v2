@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### 📝 Discord/Support Servers,
 
 
-<a href="https://discord.gg/cmHm2bpfMR"><img src="https://invidget.switchblade.xyz/cmHm2bpfMR"/></a>
+<a href="https://discord.gg/rc8Wv5v43u"><img src="https://invidget.switchblade.xyz/rc8Wv5v43u"/></a>
 <br><br>
 </div>
 
