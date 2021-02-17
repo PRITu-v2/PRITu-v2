@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRITu001&&show_icons=true&theme=radical" alt="PRITu's Github Stats">
-</p>  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu001&theme=tokyonight&hide=batchfile">
+</p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRITu001&layout=compact&hide=html" alt="PRITu001" /></p>
+</p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PRITu001&show_icons=true" alt="PRITu001" /></p>
 </p>  
 <img align="right" src="https://discord.c99.nl/widget/theme-3/741549223127941170.png">
 
