@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 
 ### 🆑 Youtube Channel,
 
-- [Custom Dan](https://youtube.com/pritu)
+- [PRITu YT](https://youtube.com/pritu)
 
 ### 🎥 Youtube videos,
 
 [How to make a discord bot from starting](https://www.youtube.com/watch?v=M7M9RBQQpNI&t=3s)
+<br>
 [how to fix quick.db installation error](youtube.com/watch?v=gbBtNxXiHm0&t=3s)
 
 ---
