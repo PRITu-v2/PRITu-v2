@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=pritu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritulx&layout=compact">
 
-### Latest YouTube Videos
+### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [PRITu's Championship Event | Discord | Nitro](https://www.youtube.com/watch?v=FqN5ty09nkE)
 - [I made Windows 11 using HTML/CSS/JS in browser](https://www.youtube.com/watch?v=XtKtVWu7E5c)
