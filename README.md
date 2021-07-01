@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:START -->
 - [PRITu's Championship Event | Discord | Nitro](https://www.youtube.com/watch?v=FqN5ty09nkE)
 - [I made Windows 11 using HTML/CSS/JS in browser](https://www.youtube.com/watch?v=XtKtVWu7E5c)
-- [I Survived 100 Days In Minecraft Hardcore | Day 1](https://www.youtube.com/watch?v=RNQN0mDAFVg)
 - [how to make discord bot from scratch (in english)](https://www.youtube.com/watch?v=M7M9RBQQpNI)
 - [How to fix quick.db installation error](https://www.youtube.com/watch?v=gbBtNxXiHm0)
+- [PokeTwo Hack |  Name bot For Poketwo | No Auto Catcher | Discord | PRITu MC](https://www.youtube.com/watch?v=PvLQrHqOGqs)
 <!-- YOUTUBE:END -->
 
 
