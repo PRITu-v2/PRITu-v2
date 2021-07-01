@@ -23,13 +23,8 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=pritu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritulx&layout=compact">
 
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [PRITu's Championship Event | Discord | Nitro](https://www.youtube.com/watch?v=FqN5ty09nkE)
-- [I made Windows 11 using HTML/CSS/JS in browser](https://www.youtube.com/watch?v=XtKtVWu7E5c)
-- [I Survived 100 Days In Minecraft Hardcore | Day 1](https://www.youtube.com/watch?v=RNQN0mDAFVg)
-- [how to make discord bot from scratch (in english)](https://www.youtube.com/watch?v=M7M9RBQQpNI)
-- [How to fix quick.db installation error](https://www.youtube.com/watch?v=gbBtNxXiHm0)
 <!-- YOUTUBE:END -->
 
 
