@@ -22,5 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I took more then 2 days for making ping command at starting of learning 🤣
 
 <img src="https://github-readme-stats.vercel.app/api?username=pritulx&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="pritulx's GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=pritulx&repo=Quillbot">
+![pritu's GitHub stats](https://github-readme-stats.vercel.app/api?username=pritu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 
 ⭐️ [pritulx](https://github.com/pritulx)
