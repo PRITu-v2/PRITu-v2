@@ -1,4 +1,4 @@
-<h1 style="align:center ;"> Hey, I'm pritu 👋</h1>
+<h1 style="align: center;"> Hey, I'm pritu 👋</h1>
 <img src="https://media.discordapp.net/attachments/843388247949967370/860451264516194324/pritulx_banner2.png?width=1025&height=160">
 
 ```js
