@@ -1,5 +1,8 @@
 <h3 title="hehehe"> Hey, I'm pritu 👋</h3>
-
+```js
+<Quick Introduction>
+Heyoo! Code addicted :).
+```
 <br>
 <img src="https://komarev.com/ghpvc/?username=pritulxD&color=blueviolet">
 <br />
@@ -33,4 +36,4 @@ Here are some ideas to get you started:
 <!-- YOUTUBE:END -->
 
 
-⭐️ [pritulx](https://github.com/pritulx)
+©️[pritulx](https://github.com/pritulx)
