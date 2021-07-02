@@ -1,7 +1,8 @@
 <h3 title="hehehe"> Hey, I'm pritu 👋</h3>
+
 ```js
 <Quick Introduction>
-Heyoo! Code addicted :).
+Heyoo! Code addicted :D.
 ```
 <br>
 <img src="https://komarev.com/ghpvc/?username=pritulxD&color=blueviolet">
