@@ -1,5 +1,5 @@
 <h1 style="align:center ;"> Hey, I'm pritu 👋</h1>
-<img src="https://cdn.discordapp.com/attachments/843388247949967370/860450749666033705/pritulx_banner2.png">
+<img src="https://media.discordapp.net/attachments/843388247949967370/860451264516194324/pritulx_banner2.png?width=1025&height=160">
 
 ```js
 <Quick Introduction>
