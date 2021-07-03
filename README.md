@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [PRITu's Championship Event | Discord | Nitro](https://www.youtube.com/watch?v=FqN5ty09nkE)
+- [#1 Command Handler | discord.js tutorials](https://www.youtube.com/watch?v=jYYM30eNkf0)
 - [I made Windows 11 using HTML/CSS/JS in browser](https://www.youtube.com/watch?v=XtKtVWu7E5c)
 - [how to make discord bot from scratch (in english)](https://www.youtube.com/watch?v=M7M9RBQQpNI)
 - [How to fix quick.db installation error](https://www.youtube.com/watch?v=gbBtNxXiHm0)
