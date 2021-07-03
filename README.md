@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [contact.pritulx@gmail.com](mailto:contact.pritulx@gmail.com) | [Discord Server](https://discord.gg/DXyczwxQYf)
 - 😄 Pronouns: He / Him
-- 💎 Projects maintained by me: [pritudev api](https://npmjs.org/package/pritudev), [Quillbot](https://gihub.com/pritulx/Quillbot)
+- 💎 Projects maintained by me: [pritudev api](https://npmjs.org/package/pritudev) | [Quillbot](https://github.com/pritulx/Quillbot)
 - ⚡ Fun fact: I took more then 2 days for making ping command at starting of learning 🤣
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=pritulx&repo=Quillbot">
