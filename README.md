@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 💎 Projects maintained by me: [pritudev api](https://npmjs.org/package/pritudev) | [Rexx bot](https://github.com/pritulx/Rexx-bot)
 - ⚡ Fun fact: I took more then 2 days for making ping command at starting of learning 🤣
 
+<br>
 <img src="https://discord.c99.nl/widget/theme-2/741549223127941170.png">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=pritulx&repo=Rexx-bot">
 <img src="https://github-readme-stats.vercel.app/api?username=pritu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
