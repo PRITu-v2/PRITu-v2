@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [PokeAssist All Error Fixed! | PokeAssist isn't working? | Not showing Name? | Not coming online?](https://www.youtube.com/watch?v=NRo3vMWrpz4)
 - [#2 Embeds & Messages Making bot to send messages | discord.js tutorials](https://www.youtube.com/watch?v=YquF45xY4Yc)
 - [#1 Making a  Discord Bot And Using Command Handler | discord.js tutorials](https://www.youtube.com/watch?v=jYYM30eNkf0)
 - [Creating a Discord Dot From Scratch | basics | Easy](https://www.youtube.com/watch?v=M7M9RBQQpNI)
 - [How to fix quick.db installation error](https://www.youtube.com/watch?v=gbBtNxXiHm0)
-- [PokeTwo Hack |  Name bot For Poketwo | No Auto Catcher | Discord | PRITu MC](https://www.youtube.com/watch?v=PvLQrHqOGqs)
 <!-- YOUTUBE:END -->
 
 
