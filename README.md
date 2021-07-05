@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - [#2 Embeds & Messages Making bot to send messages | discord.js tutorials](https://www.youtube.com/watch?v=YquF45xY4Yc)
 - [#1 Making a  Discord Bot And Using Command Handler | discord.js tutorials](https://www.youtube.com/watch?v=jYYM30eNkf0)
 - [Creating a Discord Dot From Scratch | basics | Easy](https://www.youtube.com/watch?v=M7M9RBQQpNI)
-- [How to fix quick.db installation error](https://www.youtube.com/watch?v=gbBtNxXiHm0)
+- [Fix Quick.db Installation Error In 3 Minutes](https://www.youtube.com/watch?v=gbBtNxXiHm0)
 <!-- YOUTUBE:END -->
 
 
