@@ -9,6 +9,7 @@ Heyoo! Code addicted :D.
 <img src="https://komarev.com/ghpvc/?username=pritulxD&color=blueviolet">
 <br />
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  
 ### Languages and Tools: 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://i.imgur.com/LwSdAlE.png" />
@@ -31,7 +32,7 @@ Heyoo! Code addicted :D.
 
 <br>
 <img src="https://discord.c99.nl/widget/theme-2/741549223127941170.png">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=pritulx&repo=Rexx-bot">
+
 <img src="https://github-readme-stats.vercel.app/api?username=pritu&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritulx&layout=compact">
 
