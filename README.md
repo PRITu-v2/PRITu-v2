@@ -38,11 +38,11 @@ Heyoo! Code addicted :D.
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [#5 Setting up v13 command handler | discord.js v13 tutorials](https://www.youtube.com/watch?v=Ek_tUityo4U)
 - [#4 Inline replies Mention & NoMention | discord.js tutorials](https://www.youtube.com/watch?v=9TmQ5mUzAWg)
 - [#3 Automatic changing status discord bot | discord.js tutorials](https://www.youtube.com/watch?v=fE91hZ-7Ghk)
 - [PokeAssist All Error Fixed! | PokeAssist isn't working? | Not showing Name? | Not coming online?](https://www.youtube.com/watch?v=NRo3vMWrpz4)
 - [#2 Embeds & Messages Making bot to send messages | discord.js tutorials](https://www.youtube.com/watch?v=YquF45xY4Yc)
-- [#1 Making a  Discord Bot And Using Command Handler | discord.js tutorials](https://www.youtube.com/watch?v=jYYM30eNkf0)
 <!-- YOUTUBE:END -->
 
 
