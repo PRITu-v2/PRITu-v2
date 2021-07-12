@@ -27,7 +27,7 @@ Heyoo! Code addicted :D.
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [contact.pritulx@gmail.com](mailto:contact.pritulx@gmail.com) | [Discord Server](https://discord.gg/DXyczwxQYf)
 - 😄 Pronouns: He / Him
-- 💎 Projects maintained by me: [pritudev api](https://npmjs.org/package/pritudev) | [Rexx bot](https://github.com/pritulx/Rexx-bot)
+- 💎 Projects maintained by me: [Rexx bot](https://github.com/pritulx/Rexx-bot)
 - ⚡ Fun fact: I took more then 2 days for making ping command at starting of learning 🤣
 
 <br>
