@@ -45,7 +45,6 @@ Heyoo! Code addicted :D.
 - [#2 Embeds & Messages Making bot to send messages | discord.js tutorials](https://www.youtube.com/watch?v=YquF45xY4Yc)
 <!-- YOUTUBE:END -->
 
-# Setup Video
 
 pritu HQ | ❤️ Developer |
 :---: | :---:
