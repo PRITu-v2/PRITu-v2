@@ -24,7 +24,7 @@ I make random stuff using random codes!
 - 🔭 I’m currently working on [Rexx bot](https://github.com/pritu2077/Rexx-bot)
 - 🌱 I’m currently learning discord.js/JavaScript
 - 💬 Ask me about JavaScript
-- 📫 How to reach me: [contact.pritulx@gmail.com](mailto:contact.pritulx@gmail.com) | [Discord Server](https://discord.gg/DXyczwxQYf)
+- 📫 How to reach me: [Discord Server](https://discord.gg/DXyczwxQYf)
 - 😄 Pronouns: He / Him
 - 💎 Projects maintained by me: [Rexx bot](https://github.com/pritu2077/Rexx-bot)
 - ⚡ Fun fact: I took more then 2 days for making ping command at starting of learning 🤣
