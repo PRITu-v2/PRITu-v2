@@ -1,4 +1,4 @@
-<h1 style="align: center;"> Hey, I'm pritu 👋</h1>>
+<h1 style="align: center;"> Hey, I'm pritu 👋</h1>
 
 ```js
 <Quick Introduction>
@@ -21,19 +21,19 @@ I make random stuff using random codes!
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Rexx bot](https://github.com/pritulx/Rexx-bot)
+- 🔭 I’m currently working on [Rexx bot](https://github.com/pritu2077/Rexx-bot)
 - 🌱 I’m currently learning discord.js/JavaScript
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [contact.pritulx@gmail.com](mailto:contact.pritulx@gmail.com) | [Discord Server](https://discord.gg/DXyczwxQYf)
 - 😄 Pronouns: He / Him
-- 💎 Projects maintained by me: [Rexx bot](https://github.com/pritulx/Rexx-bot)
+- 💎 Projects maintained by me: [Rexx bot](https://github.com/pritu2077/Rexx-bot)
 - ⚡ Fun fact: I took more then 2 days for making ping command at starting of learning 🤣
 
 <br>
 <img src="https://discord.c99.nl/widget/theme-2/741549223127941170.png">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pritulx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritulx&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=pritu2077&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritu2077&layout=compact">
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
@@ -50,4 +50,4 @@ pritu HQ | ❤️ Developer |
 [![Sponsor-Image](https://cdn.discordapp.com/icons/856501506093875220/a_74268581d5b67fe744052e0c4d5674e2.gif?size=1024)](https://www.youtube.com/pritu) | The Discord Channel, subscribe for Discord.js related tutorials videos and join [support server](https://discord.io/prituhhq) for any kind of help. Click [here](https://www.youtube.com/pritu) to subscribe!
 
 
-©️[pritulx](https://github.com/pritulx)
+©️[pritu2077](https://github.com/pritu2077)
