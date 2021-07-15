@@ -36,6 +36,8 @@ I make random stuff using random codes!
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2077&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pritu2077&layout=compact&theme=material-palenight" />
+</a>
 
 <a href="https://github.com/pritu2077/Vinlybot">
 
