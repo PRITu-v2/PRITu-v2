@@ -42,7 +42,7 @@ I make random stuff using random codes!
   
   _(Wakatime stats of all time)_
   
-  [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=pritu2077&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@devcaspertheghost)
+  [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=pritu2077&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@pritu2077)
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritu2077&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </details>
