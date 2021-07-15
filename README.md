@@ -21,13 +21,13 @@ I make random stuff using random codes!
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Vinlybot](https://github.com/pritu2077/Vinlybot)
+- 🔭 I’m currently working on [Vinlybot](https://github.com/pritudev/Vinlybot)
 - 🌱 I’m currently learning discord.js/JavaScript
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [Discord Server](https://discord.gg/DXyczwxQYf)
 - 😄 Pronouns: He / Him
-- 💎 Projects maintained by me: [Vinlybot](https://github.com/pritu2077/Vinlybot)
-- 📦 My biggest project so far: [Vinlybot](https://github.com/pritu2077/Vinlybot)
+- 💎 Projects maintained by me: [Vinlybot](https://github.com/pritudev/Vinlybot)
+- 📦 My biggest project so far: [Vinlybot](https://github.com/pritudev/Vinlybot)
 
 <br>
 <img src="https://discord.c99.nl/widget/theme-2/741549223127941170.png">
@@ -36,15 +36,15 @@ I make random stuff using random codes!
 <details>
 <summary style="font-size: 30px;">Stats</summary>
     
-  ![stats](https://github-readme-stats-drab-iota-53.vercel.app/api?username=pritu2077&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
+  ![stats](https://github-readme-stats-drab-iota-53.vercel.app/api?username=pritudev&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
   
-  ![langs](https://github-readme-stats-drab-iota-53.vercel.app/api/top-langs?username=pritu2077&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
+  ![langs](https://github-readme-stats-drab-iota-53.vercel.app/api/top-langs?username=pritudev&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
   
   _(Wakatime stats of all time)_
   
-  [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=pritu2077&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@pritu2077)
+  [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=pritudev&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@pritu2077)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritu2077&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritudev&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </details>
 
 ### 📺 Latest YouTube Videos
