@@ -47,7 +47,7 @@ I make random stuff using random codes!
 
 pritu HQ | ❤️ Developer |
 :---: | :---:
-[![Sponsor-Image](https://cdn.discordapp.com/icons/856501506093875220/a_74268581d5b67fe744052e0c4d5674e2.gif?size=1024)](https://www.youtube.com/pritu) | The Discord Channel, subscribe for Discord.js related tutorials videos and join [support server](https://discord.io/prituhhq) for any kind of help. Click [here](https://www.youtube.com/pritu) to subscribe!
+[![Sponsor-Image](https://cdn.discordapp.com/icons/856501506093875220/a_74268581d5b67fe744052e0c4d5674e2.png?size=1024)](https://www.youtube.com/pritu) | The Discord Channel, subscribe for Discord.js related tutorials videos and join [support server](https://discord.io/prituhhq) for any kind of help. Click [here](https://www.youtube.com/pritu) to subscribe!
 
 
 ©️[pritu2077](https://github.com/pritu2077)
