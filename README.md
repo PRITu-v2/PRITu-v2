@@ -34,28 +34,17 @@ I make random stuff using random codes!
 
 
 <details>
+<summary style="font-size: 30px;">Stats</summary>
+    
+  ![stats](https://github-readme-stats-drab-iota-53.vercel.app/api?username=pritu2077&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2077&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-</a>
-
-<br>
-
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pritu2077&layout=compact&theme=material-palenight" />
-</a>
-
-<br>
-
-<a href="https://github.com/pritu2077/Vinlybot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pritu2077&repo=Vinlybot&theme=material-palenight" />
-</a>   
-
-<br>
-
-<a href="https://github.com/pritu2077/pritu2077.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pritu2077&repo=pritu2077.github.io&theme=material-palenight" />
-</a>
-<br>
-<summary>pritu2077's Github Stats</summary>
+  ![langs](https://github-readme-stats-drab-iota-53.vercel.app/api/top-langs?username=pritu2077&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
+  
+  _(Wakatime stats of all time)_
+  
+  [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=pritu2077&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@devcaspertheghost)
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritu2077&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </details>
 
 ### 📺 Latest YouTube Videos
