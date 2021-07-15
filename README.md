@@ -32,8 +32,19 @@ I make random stuff using random codes!
 <br>
 <img src="https://discord.c99.nl/widget/theme-2/741549223127941170.png">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pritu2077&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritu2077&layout=compact">
+
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2077&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
+</a>
+
+<a href="https://github.com/pritu2077/Vinlybot">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pritu2077&repo=Vinlybot&theme=material-palenight" />
+</a>    
+<a href="https://github.com/pritu2077/pritu.github.io">
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pritu2077&repo=pritu2077.github.io&theme=material-palenight" />
+</a>
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
