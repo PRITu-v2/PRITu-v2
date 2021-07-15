@@ -21,14 +21,13 @@ I make random stuff using random codes!
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Rexx bot](https://github.com/pritu2077/Vinlybot)
+- 🔭 I’m currently working on [Vinlybot](https://github.com/pritu2077/Vinlybot)
 - 🌱 I’m currently learning discord.js/JavaScript
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [Discord Server](https://discord.gg/DXyczwxQYf)
 - 😄 Pronouns: He / Him
-- 💎 Projects maintained by me: [Rexx bot](https://github.com/pritu2077/Vinlybot)
+- 💎 Projects maintained by me: [Vinlybot](https://github.com/pritu2077/Vinlybot)
 - 📦 My biggest project so far: [Vinlybot](https://github.com/pritu2077/Vinlybot)
-- ⚡ Fun fact: I took more then 2 days for making ping command at starting of learning 🤣
 
 <br>
 <img src="https://discord.c99.nl/widget/theme-2/741549223127941170.png">
