@@ -34,19 +34,24 @@ I make random stuff using random codes!
 
 
 <details>
+  
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pritu2077&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
 </a>
+
 <br>
+
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pritu2077&layout=compact&theme=material-palenight" />
 </a>
+
 <br>
+
 <a href="https://github.com/pritu2077/Vinlybot">
-
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pritu2077&repo=Vinlybot&theme=material-palenight" />
-</a>    
-<br>
-<a href="https://github.com/pritu2077/pritu.github.io">
+</a>   
 
+<br>
+
+<a href="https://github.com/pritu2077/pritu2077.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pritu2077&repo=pritu2077.github.io&theme=material-palenight" />
 </a>
 <br>
