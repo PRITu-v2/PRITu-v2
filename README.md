@@ -44,7 +44,7 @@ I make random stuff using random codes!
   
   [![wakatime](https://github-readme-stats-drab-iota-53.vercel.app/api/wakatime?username=pritudev&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@pritu2077)
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritudev&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pritu2077&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </details>
 
 ### 📺 Latest YouTube Videos
