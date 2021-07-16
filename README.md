@@ -15,6 +15,7 @@ I make random stuff using random codes!
 <img align="left" alt="discord.js" width="26px" src="https://i.imgur.com/SI1DZf3.png" />
 <img align="left" alt="js" width="26px" src="https://i.imgur.com/3u1wzwE.png" />
 <img align="left" alt="node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png" /> 
+<br>
 
 ### Here are some ideas to get you started:
 
@@ -26,6 +27,8 @@ I make random stuff using random codes!
 - 💎 Projects maintained by me: [Vinlybot](https://github.com/pritudev/Vinlybot)
 - 📦 My biggest project so far: [Vinlybot](https://github.com/pritudev/Vinlybot)
 
+<br>
+<br>
 <br>
 <img src="https://discord.c99.nl/widget/theme-2/741549223127941170.png">
 
